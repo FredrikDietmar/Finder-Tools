@@ -1,0 +1,8 @@
+{
+    "name": "Finder Tools",
+    "author": "Fredrik Lycke",
+    "version": "1.0.0",
+    "api": "6.0",
+    "description": "Tools for FlashForge Finder.",
+    "catalog": "uranium"
+}
